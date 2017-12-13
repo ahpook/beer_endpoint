@@ -15,6 +15,7 @@ edits.
 # Actual Deployment
 
 Wow, I still hate ruby deployments. In order to "solve" the deployment problem, I'm trying out docker here.
+Now with improved kubernetes via Puppet Pipelines!
 
 ## Build the Docker image
 
